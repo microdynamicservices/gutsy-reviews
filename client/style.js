@@ -39,7 +39,7 @@ module.exports = {
       borderRadius: '5px',
       outline: 'none',
       right: '15px',
-      bottom: '-35px'
+      bottom: '-25px'
     }
   },
 
